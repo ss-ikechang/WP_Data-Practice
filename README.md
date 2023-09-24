@@ -1,2 +1,2 @@
 # WP_Data-Practice
-WP_Data
+1冊ですべて身につくWordPress入門講座
